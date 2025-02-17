@@ -66,3 +66,12 @@ If you encounter the error **"Too many users have viewed or downloaded this file
 | 5.30-CL-4305896 | 4.21-4305896 | [Download](https://drive.google.com/file/d/104L6XhMysFZe8CZmdcquXYtOM4d8LDj3/view?usp=sharing) |
 | 5.40-CL-4352937 | 4.21-4352937 | [Download](https://drive.google.com/file/d/1k53i-JCYbpo3q8_ijEOOs6IlYkeowcbK/view?usp=sharing) |
 | 5.41-CL-4363240 | 4.21-4363240 | [Download](https://drive.google.com/file/d/1CQaeoYymQ-uR6KU81NZgsg4pnILZDLUf/view?usp=sharing) |
+
+## Season 6
+| Build Name | Engine Version | Download Link |
+|--------------|----------------|---------------|
+| 6.01-CL-4424678  | 4.21-4424678  | [Download](https://drive.google.com/file/d/1xH9BVfcx9FixKt_JPSNombY1roSSYb-f/view?usp=sharing) |
+| 6.0.2-CL-4461277 | 4.21-4461277 | [Download](https://drive.google.com/file/d/1gkDutapoha7AA1UmV98KwseCEvmVqJzm/view?usp=sharing) |
+| 6.10-CL-4464155 | 4.21-4464155 | [Download](https://drive.google.com/file/d/14CyQOJa0VS9E9MS3zmc1ycrGgtDL-hDV/view?usp=sharing) |
+| 6.10.1-CL-4476098 | 4.21-4476098 | [Download](https://drive.google.com/file/d/1zpgRhTySfAGtODWraXgDtZ6b57Sx8i8g/view?usp=sharing) |
+| 6.10.2-CL-4480234 | 4.21-4480234 | [Download](https://drive.google.com/file/d/19RoJ-wTMGgSf0z-1s1P2kjGL-iTo99n1/view?usp=sharing) |
