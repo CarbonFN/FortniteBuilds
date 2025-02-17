@@ -70,8 +70,13 @@ If you encounter the error **"Too many users have viewed or downloaded this file
 ## Season 6
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
-| 6.01-CL-4424678  | 4.21-4424678  | [Download](https://drive.google.com/file/d/1xH9BVfcx9FixKt_JPSNombY1roSSYb-f/view?usp=sharing) |
+| 6.0-CL-4395664 | 4.21-4395664 | [Download](https://drive.google.com/file/d/1XvmcAsaEoWeN6MmExYOv-sPtiOcrs7FK/view?usp=sharing) |
+| 6.01-CL-4424678  | 4.21-4424678 | [Download](https://drive.google.com/file/d/1xH9BVfcx9FixKt_JPSNombY1roSSYb-f/view?usp=sharing) |
 | 6.0.2-CL-4461277 | 4.21-4461277 | [Download](https://drive.google.com/file/d/1gkDutapoha7AA1UmV98KwseCEvmVqJzm/view?usp=sharing) |
 | 6.10-CL-4464155 | 4.21-4464155 | [Download](https://drive.google.com/file/d/14CyQOJa0VS9E9MS3zmc1ycrGgtDL-hDV/view?usp=sharing) |
 | 6.10.1-CL-4476098 | 4.21-4476098 | [Download](https://drive.google.com/file/d/1zpgRhTySfAGtODWraXgDtZ6b57Sx8i8g/view?usp=sharing) |
 | 6.10.2-CL-4480234 | 4.21-4480234 | [Download](https://drive.google.com/file/d/19RoJ-wTMGgSf0z-1s1P2kjGL-iTo99n1/view?usp=sharing) |
+| 6.21-CL-4526925 | 4.21-4526925 | [Download](https://drive.google.com/file/d/1iovXZswCVa0RvQcqcEbKu2IXT0SV66yg/view?usp=sharing) |
+| 6.22-CL-4543176 | 4.21-4543176 | [Download](https://drive.google.com/file/d/1jrGdlhmZ4hE6Zfrozb_jiGgy1liE5wD1/view?usp=sharing) |
+| 6.31-CL-4573279 | 4.21-4573279 | [Download](https://drive.google.com/file/d/1Pncp6thx7e0vvf2h4VcBXFzFC7dBWMXe/view?usp=sharing) |
+
