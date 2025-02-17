@@ -80,3 +80,12 @@ If you encounter the error **"Too many users have viewed or downloaded this file
 | 6.22-CL-4543176 | 4.21-4543176 | [Download](https://drive.google.com/file/d/1jrGdlhmZ4hE6Zfrozb_jiGgy1liE5wD1/view?usp=sharing) |
 | 6.31-CL-4573279 | 4.21-4573279 | [Download](https://drive.google.com/file/d/1Pncp6thx7e0vvf2h4VcBXFzFC7dBWMXe/view?usp=sharing) |
 
+
+## Season 7
+| Build Name | Engine Version | Download Link |
+|--------------|----------------|---------------|
+| 7.0-CL-4629139 | 4.22-4629139 | [Download](https://drive.google.com/file/d/1s-n8QT0gBrEDBR4if-407v3B8kEtl-Hg/view?usp=sharing) |
+| 7.10-CL-4667333 | 4.22-4667333 | [Download](https://drive.google.com/file/d/1j9Y2Q1bL0osGP9qCIilDo8xLeWPsi4g_/view?usp=sharing) |
+| 7.20-CL-4727874 | 4.22-4727874 | [Download](https://drive.google.com/file/d/1YilxeXeLlVOvW3ITSlbnUIPyyImHuepZ/view?usp=sharing) |
+| 7.30-CL-4834550 | 4.22-4834550 | [Download](https://drive.google.com/file/d/1kFJUm9utFNa0bDbdRSU8E_Or-nb4NMdT/view?usp=sharing) |
+| 7.40-CL-5046157 | 4.22-5046157 | [Download](https://drive.google.com/file/d/1hnRtFxgMKuviipR_2N2ZA1-9pJYiEdKV/view?usp=sharing) |
