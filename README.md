@@ -19,6 +19,7 @@ If you encounter the error **"Too many users have viewed or downloaded this file
 |--------------|----------------|---------------|
 | 1.7.2-CL-3700114 | 4.16-3700114 | [Download](https://drive.google.com/file/d/19Wuaz_BnM6F5-KTK6P261Y07kSsvbiW2/view?usp=sharing) |
 | 1.8.1-CL-3729133 | 4.16-3729133 | [Download](https://drive.google.com/file/d/1d5NvaF1qsdaVUSXP4YBKab6oJC9vMG2d/view?usp=sharing) |
+| 1.8.2-CL-3741772 | 4.16-3741772 | [Download](https://drive.google.com/file/d/1DFQ7A4C95pZOnjKmgnYudqpvAxXHscL5/view?usp=sharing) |
 | 1.10-CL-3790078 | 4.19-3790078 | [Download](https://drive.google.com/file/d/1rtbOIgVyZFvNl4oPoJKnhMJVHLivXhxT/view?usp=sharing) |
 
 ## Season 2
@@ -45,3 +46,11 @@ If you encounter the error **"Too many users have viewed or downloaded this file
 | 4.2-CL-4072250 | 4.20-4072250 | [Download](https://drive.google.com/file/d/1kJQaxP-t7tLfo0adOaM-xdnu97yIFKRm/view?usp=sharing) |
 | 4.4.1-CL-4127312 | 4.20-4127312 | [Download](https://drive.google.com/file/d/15lOxiIf8XghFIAS8A-CBjwM2WBh5ltZ5/view?usp=sharing) |
 | 4.5-CL-4159770 | 4.20-4159770 | [Download](https://drive.google.com/file/d/1-a1h_Kb7DS8SB292JV4v2LP6Gyt_lnfh/view?usp=sharing) |
+
+## Season 5
+| Build Name | Engine Version | Download Link |
+|--------------|----------------|---------------|
+| 5.0-CL-4204761 | 4.21-4204761 | [Download](https://drive.google.com/file/d/1cfyOZyTNP4-ERV_RFI-cw6kgz8BU2DRq/view?usp=sharing) |
+| 5.01-CL-4214610 | 4.21-4214610 | [Download](https://drive.google.com/file/d/15CkEUQeuIxEuuzDsbM_-Gx_p-dl0_n-Z/view?usp=sharing) |
+| 5.30-CL-4305896 | 4.21-4305896 | [Download](https://drive.google.com/file/d/104L6XhMysFZe8CZmdcquXYtOM4d8LDj3/view?usp=sharing) |
+| 5.41-CL-4363240 | 4.21-4363240 | [Download](https://drive.google.com/file/d/1CQaeoYymQ-uR6KU81NZgsg4pnILZDLUf/view?usp=sharing) |
