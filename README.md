@@ -137,3 +137,9 @@ If you have any other S11 builds, please let me know.
 | 12.41-12905909 | 4.25-12905909 | [Download](https://drive.google.com/file/d/1zZsXq2K9YS0Yg290LmZW8uRitakW3aiu/view?usp=sharing) |
 | 12.50-CL-13137020 | 4.25-13137020 | [Download](https://drive.google.com/file/d/1Zvo4sVIpv25FvrpPnoeyDpPLVQUK16A2/view?usp=sharing) |
 | 12.61-CL-13498980 | 4.25-13498980 | [Download](https://drive.google.com/file/d/1Zvo4sVIpv25FvrpPnoeyDpPLVQUK16A2/view?usp=sharing) |
+
+## Season 13
+If you have any other S13 builds, please let me know.
+| Build Name | Engine Version | Download Link |
+|--------------|----------------|---------------|
+| 13.40-CL-14113327 | 4.26-14113327 | [Download](https://drive.google.com/file/d/1Xv-8FIr4_YH7eETGneIeUeQvh5Yptbf0/view?usp=sharing) |
