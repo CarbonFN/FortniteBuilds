@@ -128,3 +128,12 @@ If you have any other S11 builds, please let me know.
 | 11.10-CL-9901083 | 4.24-9901083 | [Download](https://drive.google.com/file/d/1MsBR3EEksMMKXz-fc6pcybsJhRqmiFwy/view?usp=sharing) |
 | 11.30-CL-10708866 | 4.24-10708866 | [Download](https://drive.google.com/file/d/18XCCQc8mqrPhCvh-roc3AZ_R2y8RkaP3/view?usp=sharing) |
 
+## Season 12
+| Build Name | Engine Version | Download Link |
+|--------------|----------------|---------------|
+| 12.00-CL-11556442 | 4.25-11556442 | [Download](https://drive.google.com/file/d/1onEq3Siqo_9qPhQIPXb-BuqP8s5Xw0xN/view?usp=sharing) |
+| 12.10-CL-11883027 | 4.25-11883027 | [Download](https://drive.google.com/file/d/1utgxF7vp8xkrDS7NVje2h4B4LtnM2UOD/view?usp=sharing) |
+| 12.21-CL-12353830 | 4.25-12353830 | [Download](https://drive.google.com/file/d/1A0zKg5vDmCp5SfPir6NkWWikvfBItlC9/view?usp=sharing) |
+| 12.41-12905909 | 4.25-12905909 | [Download](https://drive.google.com/file/d/1zZsXq2K9YS0Yg290LmZW8uRitakW3aiu/view?usp=sharing) |
+| 12.50-CL-13137020 | 4.25-13137020 | [Download](https://drive.google.com/file/d/1Zvo4sVIpv25FvrpPnoeyDpPLVQUK16A2/view?usp=sharing) |
+| 12.61-CL-13498980 | 4.25-13498980 | [Download](https://drive.google.com/file/d/1Zvo4sVIpv25FvrpPnoeyDpPLVQUK16A2/view?usp=sharing) |
