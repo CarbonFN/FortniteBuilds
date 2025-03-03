@@ -129,7 +129,7 @@ If you have any other S11 builds, please let me know.
 |--------------|----------------|---------------|
 | 11.00-CL-9603448 | 4.24-9603448 | [Download](https://public.simplyblk.xyz/11.00.zip) |
 | 11.10-CL-9901083 | 4.24-9901083 | [Download](https://drive.google.com/file/d/1hTrWEigQBgBGkzIKXoc3R5VqW8GcefC3/view?usp=sharing) |
-| 11.30-CL-10708866 | 4.24-10708866 | [Download](https://drive.google.com/file/d/1QvpQkFZupxFym1T6s_RwGdBt2pVnWf8_/view?usp=sharing) |
+| 11.30-CL-10708866 | 4.24-10708866 | [Download]() |
 | 11.31-CL-10800459 | 4.24-10800459 | [Download](https://public.simplyblk.xyz/11.31.rar) |
 | 11.50-CL-11265652 | 4.24-11265652 | [Download](https://drive.google.com/file/d/1KZszpA4VVoKXNO4eSin6WjQr6apguQIz/view?usp=sharing) |
 
@@ -185,6 +185,22 @@ If you have any other S13 builds, please let me know.
 ## Season 18
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
+| 18.00-CL-17468642 | 4.26.1-17468642 | [Download](https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view?usp=sharing) |
 | 18.10-CL-17661844 | 4.26.1-17661844 | [Download](https://drive.google.com/file/d/1_R5MSes7YlzNg1nFpfk-YdvrG8Il88pf/view?usp=sharing) |
 | 18.20-CL-17745267 | 4.26.1-17745267 | [Download](https://drive.google.com/file/d/1Fz34uAE3r9FLR4u4ozMHmtpcOhSb4tEf/view?usp=sharing) |
 | 18.40-CL-18163738 | 4.26.1-18163738 | [Download](https://public.simplyblk.xyz/18.40.zip) |
+
+## Season 19
+| Build Name | Engine Version | Download Link |
+|--------------|----------------|---------------|
+| 19.01-CL-18489740 | 5.0.1-18489740 | [Download](https://drive.google.com/file/d/1LPk0AUo1H1p9mSkhsFl8MZy4CnfquwD3/view?usp=sharing) |
+| 19.10-CL-18675304 | 5.0.1-18675304 | [Download](https://public.simplyblk.xyz/19.10.rar) |
+
+## Season 20
+| Build Name | Engine Version | Download Link |
+|--------------|----------------|---------------|
+| 20.00-CL-19458861 | 5.0.1-19458861 | [Download](https://drive.google.com/file/d/14JuzmFPncrw02pU1CAOhYMlr5A_R0RrV/view?usp=sharing) |
+| 20.10-CL-19598943 | 5.0.1-19598943 | [Download](https://drive.google.com/file/d/1jyz58FgapfWOfFOT9IbRmUxJYVrrXaMa/view?usp=sharing) |
+| 20.20-CL-19751212 | 5.0.1-19751212 | [Download](https://drive.google.com/file/d/1-yQyE8fFlzJZ2BoBp5ayIjy2CRJF0vyc/view?usp=sharing) |
+| 20.30-CL-19950687 | 5.0.1-19950687 | [Download](https://drive.google.com/file/d/17tDHJqRYka77G7NbokewWbOhHluxpOzK/view?usp=sharing) |
+| 20.40-CL-20244966 | 5.0.1-20244966 | [Download](https://public.simplyblk.xyz/20.40.zip) |
