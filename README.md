@@ -129,7 +129,7 @@ If you have any other S11 builds, please let me know.
 |--------------|----------------|---------------|
 | 11.00-CL-9603448 | 4.24-9603448 | [Download](https://public.simplyblk.xyz/11.00.zip) |
 | 11.10-CL-9901083 | 4.24-9901083 | [Download](https://drive.google.com/file/d/1hTrWEigQBgBGkzIKXoc3R5VqW8GcefC3/view?usp=sharing) |
-| 11.30-CL-10708866 | 4.24-10708866 | [Download]() |
+| 11.30-CL-10708866 | 4.24-10708866 | [Download](https://drive.google.com/file/d/1QvpQkFZupxFym1T6s_RwGdBt2pVnWf8_/view?usp=sharing) |
 | 11.31-CL-10800459 | 4.24-10800459 | [Download](https://public.simplyblk.xyz/11.31.rar) |
 | 11.50-CL-11265652 | 4.24-11265652 | [Download](https://drive.google.com/file/d/1KZszpA4VVoKXNO4eSin6WjQr6apguQIz/view?usp=sharing) |
 
