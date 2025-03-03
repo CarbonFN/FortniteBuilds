@@ -179,7 +179,7 @@ If you have any other S13 builds, please let me know.
 ## Season 17
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
-| 17.10-CL-16745144 | 4.26.1-16745144 | [Download](https://drive.google.com/file/d/1GGOkx9EvBoX29jZ5LLXMVCYG-ycMpBPG/view?usp=sharing) |
+| 17.10-CL-16745144 | 4.26.1-16745144 | [Download](https://drive.google.com/file/d/1KQHMQX-2-douvRdtQ1cnhp_USJsSWALY/view?usp=sharing) |
 | 17.30-CL-17004569 | 4.26.1-17004569 | [Download](https://public.simplyblk.xyz/17.30.zip) |
 | 17.40-CL-17269705 | 4.26.1-17269705 | [Download](https://drive.google.com/file/d/1b89_PChqKYD9u-LlEIo6XnJ_yA4z4a7z/view?usp=sharing) |
 | 17.50-CL-17388565 | 4.26.1-17388565 | [Download](https://public.simplyblk.xyz/17.50.zip) |
