@@ -4,6 +4,9 @@ If any builds are down, or you have a build not in this list, please let me know
 # Warning
 This page is currently a WIP.
 
+# Credits
+A lot of the ch2 builds are hosted by [BLK](https://github.com/n6617x)
+
 # Google Drive Download issue
 If you encounter the error **"Too many users have viewed or downloaded this file recently"**, follow this guide to bypass it:
 [How to Fix Google Drive Download Quota Exceeded](https://www.youtube.com/watch?v=_xW9w1d2LEY&ab_channel=Soggs)
@@ -79,7 +82,7 @@ If you encounter the error **"Too many users have viewed or downloaded this file
 | 6.10.2-CL-4480234 | 4.21-4480234 | [Download](https://drive.google.com/file/d/19RoJ-wTMGgSf0z-1s1P2kjGL-iTo99n1/view?usp=sharing) |
 | 6.21-CL-4526925 | 4.21-4526925 | [Download](https://drive.google.com/file/d/1iovXZswCVa0RvQcqcEbKu2IXT0SV66yg/view?usp=sharing) |
 | 6.22-CL-4543176 | 4.21-4543176 | [Download](https://drive.google.com/file/d/1jrGdlhmZ4hE6Zfrozb_jiGgy1liE5wD1/view?usp=sharing) |
-| 6.31-CL-4573279 | 4.21-4573279 | Pending reupload |
+| 6.31-CL-4573279 | 4.21-4573279 | [Download](https://public.simplyblk.xyz/6.31.rar) |
 
 ## Season 7
 | Build Name | Engine Version | Download Link |
@@ -103,81 +106,85 @@ If you encounter the error **"Too many users have viewed or downloaded this file
 ## Season 9
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
-| 9.00-CL-6337466 | 4.23-6337466 | Pending reupload |
-| 9.01-CL-6428087 | 4.23-6428087 | Pending reupload |
-| 9.10-CL-6639283 | 4.23-6639283 | Pending reupload |
-| 9.21-CL-6922310 | 4.23-6922310 | Pending reupload |
-| 9.30-CL-7095426 | 4.23-7095426 | Pending reupload |
-| 9.40-CL-7315705 | 4.23-7315705 | Pending reupload |
-| 9.41-CL-7609292 | 4.23-7609292 | Pending reupload |
+| 9.00-CL-6337466 | 4.23-6337466 | [Download](https://public.simplyblk.xyz/9.00.zip) |
+| 9.01-CL-6428087 | 4.23-6428087 | [Download](https://public.simplyblk.xyz/9.01.zip) |
+| 9.10-CL-6639283 | 4.23-6639283 | [Download](https://public.simplyblk.xyz/9.10.rar) |
+| 9.21-CL-6922310 | 4.23-6922310 | [Download](https://public.simplyblk.xyz/9.21.zip) |
+| 9.30-CL-7095426 | 4.23-7095426 | [Download](https://public.simplyblk.xyz/9.30.zip) |
+| 9.40-CL-7315705 | 4.23-7315705 | [Download](https://public.simplyblk.xyz/9.40.zip)|
+| 9.41-CL-7609292 | 4.23-7609292 | [Download](https://public.simplyblk.xyz/9.41.rar) |
 
 ## Season 10
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
-| 10.00-CL-7704164 | 4.23-7704164 | Pending reupload |
-| 10.10-CL-7955722 | 4.23-7955722 | Pending reupload |
-| 10.20-CL-8456527 | 4.23-8456527 | Pending reupload |
-| 10.31-CL-8723043 | 4.23-8723043 | Pending reupload |
-| 10.40-CL-9380822 | 4.23-9380822 | Pending reupload |
+| 10.00-CL-7704164 | 4.23-7704164 | [Download](https://public.simplyblk.xyz/10.00.zip) |
+| 10.10-CL-7955722 | 4.23-7955722 | [Download](https://public.simplyblk.xyz/10.10.zip) |
+| 10.20-CL-8456527 | 4.23-8456527 | [Download](https://public.simplyblk.xyz/10.20.zip) |
+| 10.31-CL-8723043 | 4.23-8723043 | [Download](https://public.simplyblk.xyz/10.31.zip) |
+| 10.40-CL-9380822 | 4.23-9380822 | [Download](https://public.simplyblk.xyz/10.40.rar) |
 
 ## Season 11
 If you have any other S11 builds, please let me know.
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
-| 11.00-CL-9603448 | 4.24-9603448 | Pending reupload |
-| 11.10-CL-9901083 | 4.24-9901083 | Pending reupload |
-| 11.30-CL-10708866 | 4.24-10708866 | Pending reupload |
-| 11.31-CL-10800459 | 4.24-10800459 | [Download](https://drive.google.com/file/d/17GTA3y33YWpX9yn4Vvdqyj3pHiRuMSZr/view?usp=sharing) |
+| 11.00-CL-9603448 | 4.24-9603448 | [Download](https://public.simplyblk.xyz/11.00.zip) |
+| 11.10-CL-9901083 | 4.24-9901083 | [Download](https://drive.google.com/file/d/1hTrWEigQBgBGkzIKXoc3R5VqW8GcefC3/view?usp=sharing) |
+| 11.30-CL-10708866 | 4.24-10708866 | [Download](https://drive.google.com/file/d/1QvpQkFZupxFym1T6s_RwGdBt2pVnWf8_/view?usp=sharing) |
+| 11.31-CL-10800459 | 4.24-10800459 | [Download](https://public.simplyblk.xyz/11.31.rar) |
 | 11.50-CL-11265652 | 4.24-11265652 | [Download](https://drive.google.com/file/d/1KZszpA4VVoKXNO4eSin6WjQr6apguQIz/view?usp=sharing) |
 
 ## Season 12
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
-| 12.00-CL-11556442 | 4.25-11556442 | Pending reupload |
-| 12.10-CL-11883027 | 4.25-11883027 | Pending reupload |
-| 12.21-CL-12353830 | 4.25-12353830 | Pending reupload |
-| 12.41-CL-12905909 | 4.25-12905909 | Pending reupload |
-| 12.50-CL-13137020 | 4.25-13137020 | Pending reupload |
+| 12.00-CL-11556442 | 4.25-11556442 | [Download](https://public.simplyblk.xyz/12.00.rar) |
+| 12.10-CL-11883027 | 4.25-11883027 | [Download](https://drive.google.com/file/d/1BYHYo4O7P4x5kYzV14q8BopUmO-r5Z_o/view?usp=sharing) |
+| 12.21-CL-12353830 | 4.25-12353830 | [Download](https://drive.google.com/file/d/1BA5MJEyE9tje7-frrUrXrRcyhnIrcBEP/view?usp=sharing) |
+| 12.41-CL-12905909 | 4.25-12905909 | [Download](https://drive.google.com/file/d/1z1OOHQT6Op3kCcZkOQM4G6NSquQdg2vY/view?usp=sharing) |
+| 12.50-CL-13137020 | 4.25-13137020 | [Download](https://drive.google.com/file/d/15ijQ8gb_ylzhx8ihLvQm6IPB4uYP5tlB/view?usp=sharing) |
 | 12.61-CL-13498980 | 4.25-13498980 | [Download](https://drive.google.com/file/d/10y3Zr_LxAUZi1nsczhdFCFTZ59KAdBHJ/view?usp=sharing) |
 
 ## Season 13
 If you have any other S13 builds, please let me know.
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
-| 13.40-CL-14113327 | 4.26-14113327 | Pending reupload |
+| 13.00-CL-?? | 4.26-?? | [Download](https://public.simplyblk.xyz/13.00.rar) |
+| 13.40-CL-14113327 | 4.26-14113327 | [Download](https://public.simplyblk.xyz/13.40.zip) |
 
 ## Season 14
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
-| 14.00-CL-14211474 | 4.26-14211474 | Pending reupload |
-| 14.30-CL-14456520 | 4.26-14456520 | Pending reupload |
-| 14.60-CL-14786821 | 4.26-14786821 | Pending reupload |
+| 14.00-CL-14211474 | 4.26-14211474 | [Download](https://public.simplyblk.xyz/14.00.rar) |
+| 14.30-CL-14456520 | 4.26-14456520 | [Download](https://drive.google.com/file/d/117H8_xWOQKLuUNQ2Jm56UtK7ooFTzdMq/view?usp=sharing) |
+| 14.40-CL-14550713 | 4.26-14550713 | [Download](https://public.simplyblk.xyz/14.40.rar) |
+| 14.60-CL-14786821 | 4.26-14786821 | [Download](https://public.simplyblk.xyz/14.60.rar) |
 
 ## Season 15
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
-| 15.00-CL-14835335 | 4.26-14835335 | Pending reupload |
+| 15.00-CL-14835335 | 4.26-14835335 | [Download](https://drive.google.com/file/d/1iiZdgbc42_o_d3vE2aIHDIT7LzxXJaKB/view?usp=sharing) |
 | 15.10-CL-15014719 | 4.26-15014719 | Pending reupload |
-| 15.50-CL-15526472 | 4.26-15526472 | Pending reupload |
+| 15.30-CL-15341163 | 4.26-15341163 | [Download](https://public.simplyblk.xyz/15.30.rar) |
+| 15.50-CL-15526472 | 4.26-15526472 | [Download](https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view?usp=sharing) |
 
 ## Season 16
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
 | 16.10-CL-15913292 | 4.26.1-15913292 | [Download](https://drive.google.com/file/d/1oP9neA9V9d0qIgniCDjhKp3wnrHE0d7Z/view?usp=sharing) |
-| 16.30-CL-16163563 | 4.26.1-16163563 | Pending reupload |
-| 16.40-CL-16218553 | 4.26.1-16218553 | Pending reupload |
-| 16.50-CL-16469788 | 4.26.1-16469788 | Pending reupload |
+| 16.30-CL-16163563 | 4.26.1-16163563 | [Download](https://drive.google.com/file/d/1lDvUdineKpElf9H92zB1zw13IINskiHi/view?usp=sharing) |
+| 16.40-CL-16218553 | 4.26.1-16218553 | [Download](https://public.simplyblk.xyz/16.40.rar) |
+| 16.50-CL-16469788 | 4.26.1-16469788 | [Download](https://drive.google.com/file/d/15Rr_mkevAvbch1DF54ntHXyj139-HJOx/view?usp=sharing) |
 
 ## Season 17
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
 | 17.10-CL-16745144 | 4.26.1-16745144 | [Download](https://drive.google.com/file/d/1GGOkx9EvBoX29jZ5LLXMVCYG-ycMpBPG/view?usp=sharing) |
-| 17.30-CL-17004569 | 4.26.1-17004569 | Pending reupload |
+| 17.30-CL-17004569 | 4.26.1-17004569 | [Download](https://public.simplyblk.xyz/17.30.zip) |
 | 17.40-CL-17269705 | 4.26.1-17269705 | Pending reupload |
-| 17.50-CL-17388565 | 4.26.1-17388565 | Pending reupload |
+| 17.50-CL-17388565 | 4.26.1-17388565 | [Download](https://public.simplyblk.xyz/17.50.zip) |
 
 ## Season 18
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
 | 18.10-CL-17661844 | 4.26.1-17661844 | [Download](https://drive.google.com/file/d/1_R5MSes7YlzNg1nFpfk-YdvrG8Il88pf/view?usp=sharing) |
-| 18.40-CL-18163738 | 4.26.1-18163738 | [Download](https://drive.google.com/file/d/1SPkZck-FtrNLpLplXvFXW_8-FB3GaoZI/view?usp=sharing) |
+| 18.20-CL-17745267 | 4.26.1-17745267 | [Download](https://drive.google.com/file/d/1Fz34uAE3r9FLR4u4ozMHmtpcOhSb4tEf/view?usp=sharing) |
+| 18.40-CL-18163738 | 4.26.1-18163738 | [Download](https://public.simplyblk.xyz/18.40.zip) |
