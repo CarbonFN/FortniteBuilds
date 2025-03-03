@@ -164,7 +164,7 @@ If you have any other S13 builds, please let me know.
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
 | 15.00-CL-14835335 | 4.26-14835335 | [Download](https://drive.google.com/file/d/1iiZdgbc42_o_d3vE2aIHDIT7LzxXJaKB/view?usp=sharing) |
-| 15.10-CL-15014719 | 4.26-15014719 | Pending reupload |
+| 15.10-CL-15014719 | 4.26-15014719 | [Download](https://drive.google.com/file/d/109syBfdyO9H4Yw0TvnPLtqDRn0AYIhQH/view?usp=sharing) |
 | 15.30-CL-15341163 | 4.26-15341163 | [Download](https://public.simplyblk.xyz/15.30.rar) |
 | 15.50-CL-15526472 | 4.26-15526472 | [Download](https://drive.google.com/file/d/1GQicxFPRBsXDsh4hehRNk9M1ACeyglTE/view?usp=sharing) |
 
@@ -181,7 +181,7 @@ If you have any other S13 builds, please let me know.
 |--------------|----------------|---------------|
 | 17.10-CL-16745144 | 4.26.1-16745144 | [Download](https://drive.google.com/file/d/1GGOkx9EvBoX29jZ5LLXMVCYG-ycMpBPG/view?usp=sharing) |
 | 17.30-CL-17004569 | 4.26.1-17004569 | [Download](https://public.simplyblk.xyz/17.30.zip) |
-| 17.40-CL-17269705 | 4.26.1-17269705 | Pending reupload |
+| 17.40-CL-17269705 | 4.26.1-17269705 | [Download](https://drive.google.com/file/d/1b89_PChqKYD9u-LlEIo6XnJ_yA4z4a7z/view?usp=sharing) |
 | 17.50-CL-17388565 | 4.26.1-17388565 | [Download](https://public.simplyblk.xyz/17.50.zip) |
 
 ## Season 18
@@ -190,6 +190,8 @@ If you have any other S13 builds, please let me know.
 | 18.00-CL-17468642 | 4.26.1-17468642 | [Download](https://drive.google.com/file/d/1aFVVvbmrrK7BykqTVS3XR6nB-Asib5gq/view?usp=sharing) |
 | 18.10-CL-17661844 | 4.26.1-17661844 | [Download](https://drive.google.com/file/d/1_R5MSes7YlzNg1nFpfk-YdvrG8Il88pf/view?usp=sharing) |
 | 18.20-CL-17745267 | 4.26.1-17745267 | [Download](https://drive.google.com/file/d/1Fz34uAE3r9FLR4u4ozMHmtpcOhSb4tEf/view?usp=sharing) |
+| 18.21-CL-17811397 | 4.26.1-17811397 | [Download](https://drive.google.com/file/d/1CiwxeQtWdf15laUo-Hrsldb7Jol8KRea/view?usp=sharing) |
+| 18.30-CL-17882303 | 4.26.1-17882303 | [Download](https://drive.google.com/file/d/16I49gdBFBNV1frj5c0vf9IgLsFnToeKK/view?usp=sharing) |
 | 18.40-CL-18163738 | 4.26.1-18163738 | [Download](https://public.simplyblk.xyz/18.40.zip) |
 
 ## Season 19
