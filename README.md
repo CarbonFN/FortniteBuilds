@@ -1,6 +1,8 @@
 # FortniteBuilds
 If any builds are down, or you have a build not in this list, please let me know at https://discord.gg/kh5zEARzbY
 
+If you share these builds, it would be stronly preffered if you point them to this repo instead of putting them in your own discord/github.
+
 # Warning
 This page is currently a WIP.
 
@@ -204,3 +206,11 @@ If you have any other S13 builds, please let me know.
 | 20.20-CL-19751212 | 5.0.1-19751212 | [Download](https://drive.google.com/file/d/1-yQyE8fFlzJZ2BoBp5ayIjy2CRJF0vyc/view?usp=sharing) |
 | 20.30-CL-19950687 | 5.0.1-19950687 | [Download](https://drive.google.com/file/d/17tDHJqRYka77G7NbokewWbOhHluxpOzK/view?usp=sharing) |
 | 20.40-CL-20244966 | 5.0.1-20244966 | [Download](https://public.simplyblk.xyz/20.40.zip) |
+
+## Season 21
+| Build Name | Engine Version | Download Link |
+|--------------|----------------|---------------|
+| 21.00-CL-20463113 | 5.0.1-20463113 | [Download](https://drive.google.com/file/d/1Ra0RcUDEt0YGYVcFieeLf1QnYkiNfycA/view?usp=sharing) |
+| 21.10-CL-20696680 | 5.0.1-20696680 | [Download](https://drive.google.com/file/d/1neQuCrdw47agga6i8SoN8OoyDmB79Vl5/view?usp=sharing) |
+| 21.20-CL-21035704 | 5.0.1-21035704 | [Download](https://drive.google.com/file/d/1sxkvt72c6-G6Sxrc5lrY0JBxpWxzOCvw/view?usp=sharing) |
+| 21.50-CL-21657658 | 5.0.1-21657658 | [Download](https://drive.google.com/file/d/1ot2hO-Vj6bOYiZGNm44UBqW9_EOm7MqK/view?usp=sharing) |
