@@ -1,10 +1,11 @@
 # FortniteBuilds
-If any builds are down, or you have a build not in this list, please let me know at https://discord.gg/kh5zEARzbY
+~~If any builds are down, or you have a build not in this list, please let me know at~~ Most of the links are dead, join the discord for new updates: https://discord.gg/kh5zEARzbY
 
-If you share these builds, it would be stronly preffered if you point them to this repo instead of putting them in your own discord/github.
 
-# Warning
-This page is currently a WIP.
+
+> [!WARNING]  
+> Most of the links in this repository are dead. Don't worry! We have something planned for next week. More information will be shared in the discord soon
+
 
 # Credits
 A lot of the ch2 builds are hosted by [BLK](https://github.com/n6617x)
