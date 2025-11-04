@@ -118,6 +118,9 @@ If you have any builds not on here. Please contact me at https://discord.gg/kh5z
 ## Season 20
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
+| 20.00-CL-19458861 | 5.0.1-19458861 | [Download](https://cdn.cbn.lol/20.00) |
+| 20.10-CL-19598943 | 5.0.1-19598943 | [Download](https://cdn.cbn.lol/20.10) |
+| 20.20-CL-19751212 | 5.0.1-19751212 | [Download](https://cdn.cbn.lol/20.20) |
 | 20.30-CL-19950687 | 5.0.1-19950687 | [Download](https://cdn.cbn.lol/20.30) |
 | 20.40-CL-20244966 | 5.0.1-20244966 | [Download](https://cdn.cbn.lol/20.40) |
 
@@ -127,10 +130,12 @@ If you have any builds not on here. Please contact me at https://discord.gg/kh5z
 | 21.20-CL-20978394 | 5.0.1-20978394 | [Download](https://cdn.cbn.lol/21.20) |
 | 21.30-CL-21155462 | 5.0.1-21155462 | [Download](https://cdn.cbn.lol/21.30) |
 | 21.40-CL-21407327 | 5.0.1-21407327 | [Download](https://cdn.cbn.lol/21.40) |
+| 21.50-CL-21657658 | 5.0.1-21657658 | [Download](https://cdn.cbn.lol/21.50) |
 
 ## Season 22
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
+| 22.00-CL-22149829| 5.0.1-22149829 | [Download](https://cdn.cbn.lol/22.00) |
 | 22.10-CL-22429549 | 5.0.1-22429549 | [Download](https://cdn.cbn.lol/22.10) |
 
 ## Season 23
