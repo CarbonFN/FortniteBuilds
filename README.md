@@ -4,7 +4,7 @@ If you have any builds not on here. Please contact me at https://discord.gg/kh5z
 
 
 > [!WARNING]  
-> I will update this soon. For now only includes builds hosted on cdn.cbn.lol. More builds can be found on 
+> I will update this soon. For now only includes builds hosted on cdn.cbn.lol. More builds can be found on https://builds.cbn.lol/ 
 
 
 ## Special and Pre BR
@@ -20,7 +20,7 @@ If you have any builds not on here. Please contact me at https://discord.gg/kh5z
 ## Season 2
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
-
+| 2.20-CL-3841827 | 4.19-3841827 | [Download](https://cdn.cbn.lol/2.20) |
 
 ## Season 3
 | Build Name | Engine Version | Download Link |
@@ -54,7 +54,7 @@ If you have any builds not on here. Please contact me at https://discord.gg/kh5z
 ## Season 9
 | Build Name | Engine Version | Download Link |
 |--------------|----------------|---------------|
-| 9.20-CL-6822798 | 4.23-6822798 | [Download](    https://cdn.cbn.lol/9.20) |
+| 9.20-CL-6822798 | 4.23-6822798 | [Download](https://cdn.cbn.lol/9.20) |
 
 
 ## Season 10
