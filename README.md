@@ -6,6 +6,38 @@ If you have any builds not on here. Please contact me at https://discord.gg/kh5z
 > [!WARNING]  
 > I will update this soon. For now only includes builds hosted on cdn.cbn.lol. More builds can be found on https://builds.cbn.lol/ 
 
+## Carbon Beta 6
+Beta 6 will include a new way to download seaons. No more having to deal with zips. Just download the files from the manifest.
+This feature will be availble for all builds between S23 and latest
+Versions past S34 will have the option to download as "ThinClient" meaning you will only have to download the needed files without having to download other game modes like Juno, Delmar or Creative. 
+Builds currently uploaded will remain availble as a zip(builds hosted on r2.cdn.cbn.lol may be down in the week leading up to beta 6).
+
+More info will be shared as we get closer to Beta 6.
+
+### Manifest-supported builds (Beta 6)
+This list is not finalized and subject to change
+- S0: 1.7.2
+- S3: 3.5, 3.6
+- S5: 5.21, 5.30, 5.40, 5.41
+- S6: 6.00, 6.01, 6.02, 6.10, 6.20, 6.21, 6.30, 6.31
+- S7: 7.10, 7.20, 7.30, 7.40
+- S8: 8.30, 8.40, 8.50, 8.51
+- S9: 9.10, 9.20, 9.21, 9.30, 9.40, 9.41
+- S10: 10.20, 10.21, 10.30, 10.40
+- S11: 11.30, 11.31
+- S12 12.41, 12.61
+- S13: 13.30, 13.40
+- S14: 14.60
+- S15: Majority of all builds
+- S16: 16.00, 16.50
+- S17: 17.21, 17.30, 17.50
+- S18: 18.00, 18.10, 18.20, 18.21, 18.30, 18.40
+- S19: 19.01, 19.10
+- S20: 20.40
+- S21: 21.10, 21.20, 22.40
+- S22: 22.40
+- S23: 23.10
+- All other builds past S23
 
 ## Special and Pre BR
 | Build Name | Engine Version | Download Link |
