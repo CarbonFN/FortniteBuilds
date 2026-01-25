@@ -8,7 +8,7 @@ If you have any builds not on here. Please contact me at https://discord.gg/kh5z
 
 ## Carbon Beta 6
 Beta 6 will include a new way to download seaons. No more having to deal with zips. Just download the files from the manifest.
-This feature will be availble for all builds between S23 and latest
+This feature will be availble for all builds between S23 and latest.
 Versions past S34 will have the option to download as "ThinClient" meaning you will only have to download the needed files without having to download other game modes like Juno, Delmar or Creative. 
 Builds currently uploaded will remain availble as a zip(builds hosted on r2.cdn.cbn.lol may be down in the week leading up to beta 6).
 
