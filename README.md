@@ -25,7 +25,7 @@ This list is not finalized and subject to change
 - S9: 9.10, 9.20, 9.21, 9.30, 9.40, 9.41
 - S10: 10.20, 10.21, 10.30, 10.40
 - S11: 11.30, 11.31
-- S12 12.41, 12.61
+- S12: 12.41, 12.61
 - S13: 13.30, 13.40
 - S14: 14.60
 - S15: Majority of all builds
